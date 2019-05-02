@@ -26,7 +26,7 @@ public class App {
 		 * System.out.println(service.findByprenom("Toto"));
 		 * System.out.println(service.rechercherParMC("Tata"));
 		 */
-		/*
+		/*Méthode modifier
 		 * service.modifierPersonneParId("Lulu", "Satounou",666, 1);
 		 * 
 		 * System.out.println(service.findAllPersonne());
