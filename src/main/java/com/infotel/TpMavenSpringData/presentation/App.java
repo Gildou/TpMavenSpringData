@@ -45,7 +45,7 @@ public class App {
 		 * service.ajouterAdresse(a); System.out.println(a);
 		 */
 
-		service.ajouterPersonneAdresse(1, 1);
+		service.ajouterPersonneAdresse(1,1);
 
 	}
 }
